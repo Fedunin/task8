@@ -1,0 +1,15 @@
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\bin\Debug\net6.0\Task62.exe
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\bin\Debug\net6.0\Task62.deps.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\bin\Debug\net6.0\Task62.runtimeconfig.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\bin\Debug\net6.0\Task62.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\bin\Debug\net6.0\Task62.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.csproj.AssemblyReference.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.AssemblyInfoInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.AssemblyInfo.cs
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\refint\Task62.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\Task62.genruntimeconfig.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Урок 8. Двумерные массивы. Продолжение\task8\Task62\obj\Debug\net6.0\ref\Task62.dll
